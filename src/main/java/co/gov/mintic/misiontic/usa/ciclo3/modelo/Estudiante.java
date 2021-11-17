@@ -5,7 +5,7 @@
  */
 
 package co.gov.mintic.misiontic.usa.ciclo3.modelo;
-
+ //..
 /**
  *
  * @author JOHN CARLOS ARRIETA ARRIETA

@@ -14,7 +14,7 @@ import java.io.InputStreamReader;
 import org.apache.http.HttpResponse;
 import org.apache.http.client.methods.HttpGet;
 import org.apache.http.impl.client.DefaultHttpClient;
-
+ //..
 /**
  *
  * @author JOHN CARLOS ARRIETA ARRIETA

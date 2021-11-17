@@ -18,6 +18,7 @@ public class Principal {
         VentanaNotas v = new VentanaNotas();
         v.setLocationRelativeTo(null);
         v.setVisible(true);
+        //..
     }
 
 }
